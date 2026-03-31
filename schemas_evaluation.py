@@ -12,7 +12,7 @@ Scoring principle — Zero-Tolerance:
   A check receives 1 ONLY IF the information is present, numerically exact,
   not generalized, and not hallucinated. Partial match = 0.
 
-No runtime logic is included here. For the full pipeline, see evaluation_V5.py.
+No runtime logic is included here.
 """
 
 from typing import Literal, Optional
